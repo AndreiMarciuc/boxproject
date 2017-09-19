@@ -1,0 +1,52 @@
+#container{
+ width: 960px;
+ background-color: silver;
+ margin: 0px auto;
+ padding:20px ;
+ border: 1px solid black;
+ 
+}
+#boxred1, #boxred2{
+    background-color: red;
+    height: 200px;
+    width: 435px;
+   border: 1px solid black;
+   margin: 20px;
+   display: inline-block;
+}
+
+#boxblue{
+    background-color: blue;
+    width: 920px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 20px;
+}
+#boxyell1, #boxyell2, #boxyell3{
+background-color: yellow;
+height: 200px;
+width: 275px;
+border: 1px solid black;
+margin: 20px;
+display: inline-block;
+}
+#boxgreen{
+    background-color: green;
+    width: 920px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 20px;
+}
+.boxpurp1, .boxpurp2{
+    background-color: purple;
+    display: inline-block;
+    height: 160px;
+    width: 180px;
+    margin: 20px;
+}
+
+.boxpurp2{
+    margin-left: 496px;
+}
